@@ -1,0 +1,51 @@
+[{
+  "name": "Kiatu",
+  "description": "Lorem Ipsum dor sut amet, Lorem ipsum dolor sut amet,Lorem ipsum dolor sut amet,Lorem ipsum dolor sut amet",
+  "cardImage": "../assets/clown.jpg",
+  "images": ["../assets/clown.jpg", "../assets/YinYang.jpg", "../assets/index.jpg"],
+  "price": 737,
+  "currency": "Ksh",
+  "discount": 0.4,
+  "rating": 3,
+  "variation": ["White", "black", "grey"]
+}, {
+  "name": "Kiatu",
+  "description": "Lorem Ipsum dor sut amet, Lorem ipsum dolor sut amet,Lorem ipsum dolor sut amet,Lorem ipsum dolor sut amet",
+  "cardImage": "../assets/clown.jpg",
+  "images": ["../assets/clown.jpg", "../assets/YinYang.jpg", "../assets/index.jpg"],
+  "price": 737,
+  "currency": "Ksh",
+  "discount": 0.4,
+  "rating": 3,
+  "variation": ["White", "black", "grey"]
+}, {
+  "name": "Kiatu",
+  "description": "Lorem Ipsum dor sut amet, Lorem ipsum dolor sut amet,Lorem ipsum dolor sut amet,Lorem ipsum dolor sut amet",
+  "cardImage": "../assets/clown.jpg",
+  "images": ["../assets/clown.jpg", "../assets/YinYang.jpg", "../assets/index.jpg"],
+  "price": 737,
+  "currency": "Ksh",
+  "discount": 0.4,
+  "rating": 3,
+  "variation": ["White", "black", "grey"]
+}, {
+  "name": "Kiatu",
+  "description": "Lorem Ipsum dor sut amet, Lorem ipsum dolor sut amet,Lorem ipsum dolor sut amet,Lorem ipsum dolor sut amet",
+  "cardImage": "../assets/clown.jpg",
+  "images": ["../assets/clown.jpg", "../assets/YinYang.jpg", "../assets/index.jpg"],
+  "price": 737,
+  "currency": "Ksh",
+  "discount": 0.4,
+  "rating": 3,
+  "variation": ["White", "black", "grey"]
+}, {
+  "name": "Kiatu",
+  "description": "Lorem Ipsum dor sut amet, Lorem ipsum dolor sut amet,Lorem ipsum dolor sut amet,Lorem ipsum dolor sut amet",
+  "cardImage": "../assets/clown.jpg",
+  "images": ["../assets/clown.jpg", "../assets/YinYang.jpg", "../assets/index.jpg"],
+  "price": 737,
+  "currency": "Ksh",
+  "discount": 0.4,
+  "rating": 3,
+  "variation": ["White", "black", "grey"]
+}]
